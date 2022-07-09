@@ -1,6 +1,6 @@
 package ja.interview.questions;
 
-public class swapNumbers {
+public class SwapNumbers {
     // With third variable
     static void swapTwoNumWithThirdVar() {
         int x = 5;

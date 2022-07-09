@@ -1,6 +1,6 @@
 package ja.interview.questions;
 
-public class findTheLengthOfString {
+public class FindTheLengthOfString {
 
     // Find length of the String with inbuilt functionalities
     static void findLengthOfStringWithInbuilt() {
